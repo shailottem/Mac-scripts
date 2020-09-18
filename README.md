@@ -11,6 +11,7 @@ The videos are downloaded to `~/Downloads/Move to external drive` folder and sor
 ### Requirements
 
 - [NetNewsWire](https://ranchero.com/netnewswire/) installed.
+<<<<<<< Updated upstream
 - In NetNewsWire, On My Mac account is turned on with a folder named "Monitored feeds".
 - "Monitored Feeds" folder contains [YouTube RSS feeds](https://support.google.com/youtube/answer/6224202) to download.
 - [youtube-dl](https://youtube-dl.org) installed.
